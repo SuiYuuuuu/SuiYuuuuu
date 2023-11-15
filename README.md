@@ -1,16 +1,26 @@
-### Hi there 👋
+# 个人主页
 
-<!--
-**SuiYuuuuu/SuiYuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自我简介
 
-Here are some ideas to get you started:
+我是岁羽，华中师范大学2021级本科生，请多多指教
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目经验
+
+### 基于BFS算法改进的带有助手的拼图游戏
+* 项目描述：一款拼图游戏，有一定难度，当玩家难以通关时可以呼出小助手，它可以引导玩家解决问题
+* 使用技术：利用BFS广度优先搜索算法寻找最短拼图步数和路径
+
+### Javaweb实现购物商城
+* 项目描述：一款带有分期付款功能的网络购物商城
+* 使用技术：前后端分离，前端使用vue框架和springboot技术，后端采取servlet和MySQL技术
+
+
+## 掌握技能
+
+* 较为熟练掌握C和C++语言，能独立开发一些小型项目
+* 有一定Python和Java基础，能够实现一定的需求
+* 掌握一定的基本算法
+
+## 联系方式
+
+* Email: 2431451857@qq.com
